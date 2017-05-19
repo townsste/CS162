@@ -1,2 +1,2 @@
 # CS162
-C++
+Intro to Computer Science II in C++
